@@ -6,9 +6,9 @@ import asyncio
 import os
 
 # Конфігурація
-API_TOKEN = "6502169584:AAE6qftfplCWW8uIUH_LfEtF1eXkFMT9mkU"
-TELEGRAM_API_ID = "21513616"
-TELEGRAM_API_HASH = "29d9fb53cceef15239cc1d1b3de16ee4"
+API_TOKEN = ""
+TELEGRAM_API_ID = ""
+TELEGRAM_API =" "
 CHANNELS_TO_MONITOR = [
     "https://t.me/+XG0-Pv2XBzFmOWQ6",
     "https://t.me/workua_remote",
